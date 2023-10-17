@@ -9,7 +9,7 @@ Welcome to Monty, a simple and powerful stack-based programming language! This r
 - **Project Name:** Monty
 - **Type:** Group Project
 - **Category:** Algorithm and Data Structure
-- **Authors:** Wanyoike Edwards, Whitney Oduor)
+- **Authors:** Wanyoike Edwards, Whitney Oduor
 - **Weight:** 2
 - **Project Duration:** Oct 17, 2023, 6:00 AM - Oct 20, 2023, 6:00 AM
 - **Checker Release:** Oct 18, 2023, 12:00 AM
