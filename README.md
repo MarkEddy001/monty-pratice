@@ -1,6 +1,6 @@
 # Monty - A Stack-Based Programming Language
 
-![Monty Logo]([https://your-image-url-here](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png))
+![](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png)
 
 Welcome to Monty, a simple and powerful stack-based programming language! This repository contains the implementation of Monty, which can process Monty bytecode files.
 
@@ -34,18 +34,19 @@ Please note that plagiarism is strictly forbidden. You are expected to come up w
 ## Requirements
 
 ### General
-- Allowed editors: vi, vim, emacs
-- All your files will be compiled on Ubuntu 20.04 LTS using gcc with the following options: -Wall -Werror -Wextra -pedantic -std=c89
-- All your files should end with a new line
-- A README.md file is mandatory at the root of the project folder
-- Your code should follow the Betty style, which will be checked using betty-style.pl and betty-doc.pl
-- You are allowed to use a maximum of one global variable
-- No more than 5 functions per file
-- You are allowed to use the C standard library
-- The prototypes of all your functions should be included in your header file named `monty.h`
-- Don't forget to push your header file
-- All your header files should be include guarded
-- Perform the tasks in the order shown in the project
+
+-   Allowed editors: `vi`, `vim`, `emacs`
+-   All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c90
+-   All your files should end with a new line
+-   A `README.md` file, at the root of the folder of the project is mandatory
+-   Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
+-   You allowed to use a maximum of one global variable
+-   No more than 5 functions per file
+-   You are allowed to use the C standard library
+-   The prototypes of all your functions should be included in your header file called `monty.h`
+-   Don't forget to push your header file
+-   All your header files should be include guarded
+-   You are expected to do the tasks in the order shown in the project
 
 ## Compilation & Output
 
