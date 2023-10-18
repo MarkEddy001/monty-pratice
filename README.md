@@ -1,6 +1,6 @@
 # Monty - A Stack-Based Programming Language
 
-![Monty Logo]([https://your-image-url-here](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png))
+![](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png)
 
 Welcome to Monty, a simple and powerful stack-based programming language! This repository contains the implementation of Monty, which can process Monty bytecode files.
 
